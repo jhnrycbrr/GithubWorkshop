@@ -31,6 +31,7 @@
 </head>
 <body>
     <h1>List of HTML Files</h1>
+    <h1>Hi po</h1>
     <ul>
     <?php
         $dir = "."; // Specify the directory to scan
